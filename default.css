@@ -1,0 +1,12 @@
+#presentation {
+    padding: 100px 10px;
+  }
+.btn-block {
+    display: flex;
+}  
+  
+  @media all and (max-width: 500px) {
+    #presentation {
+      padding: 30px 10px;
+    }
+  }
